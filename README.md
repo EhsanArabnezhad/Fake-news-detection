@@ -16,6 +16,7 @@ The following is the way I approached the project:
   1-4: On Regular data, "post" and "subreddit" are merged the same way of troll.
   
   1-5: Replaced all urls with the word "url", using regex.
+  
   1-6: Removed all the numbers, non alphabet chars, single letters, stop words, multiple spaces etc.
   
   1-7: Merged the data to form the final dataset
