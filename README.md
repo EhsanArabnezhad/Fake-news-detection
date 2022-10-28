@@ -22,10 +22,10 @@ The following is the way I approached the project:
   1-7: Merged the data to form the final dataset
   
   
- 2- Splitted data into train and validation for machine learning
+ 2- Splitted data into train and validation for machine learning. Then vectorized the corpus.
  
- 3- Created the vectorized form of text to be fed into Bi-directional LSTM.
+ 3- Created the vectorized form of text to be fed into Bi-directional LSTM. B-LSTM is proved to work better than LSTM or simple RNN.
  
- 4- Creating the architecture of neural network.
+ 4- Creating the architecture of neural network. 
  
- 5- Compiling and fitting the model
+ 5- Compiling and fitting the model. For the metrics I just simply used "Accuracy" while it is not the option here cuz of imbalanced nature of the dataset.
