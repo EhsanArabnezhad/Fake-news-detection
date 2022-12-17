@@ -24,7 +24,7 @@ The following is the way I approached the project:
   
  2- Splitted data into train and validation for machine learning. Then vectorized the corpus.
  
- 3- Created the vectorized form of text to be fed into Bi-directional LSTM. B-LSTM is proved to work better than LSTM or simple RNN.
+ 3- Created the vectorized form (embedding) of text to be fed into LSTM. B-LSTM is proved to work better than LSTM or simple RNN.
  
  4- Creating the architecture of neural network. 
  
