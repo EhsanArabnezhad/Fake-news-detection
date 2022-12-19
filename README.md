@@ -1,6 +1,6 @@
 # Supportiv
 
-On this project I tried to utilize all the common ways of approaching a NLP task. I didnt really take a look at scores. 
+On this project I tried to utilize all the common ways of approaching a NLP task. I didnt really take a look at scores. However the accuracy of the model reached to 80%
 
 The following is the way I approached the project:
 
